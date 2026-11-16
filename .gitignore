@@ -1,0 +1,14 @@
+# Archivos de configuración local y privada de NetBeans
+**/nbproject/private/
+**/.netbeans_automatic_build
+**/.netbeans_update_resources
+
+# Archivos compilados y carpetas de salida
+**/build/
+**/dist/
+*.class
+*.jar
+*.war
+
+# Temporales
+*.log
